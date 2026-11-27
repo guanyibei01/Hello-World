@@ -1,3 +1,3 @@
 # Hello-World
 此存储库用于练习 GitHub Flow
-初次尝试，无修改
+初次尝试
